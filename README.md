@@ -9,11 +9,11 @@ A complete ecosystem including a responsive web dashboard and a Telegram bot, de
 
 ## 📸 Platform Interface & Screenshots
 ### 💻 Web Dashboard
-<img width="400" alt="5276441952947741052" src="https://github.com/user-attachments/assets/e8950dc5-b6ac-4856-9eda-efa9b35dcd9d" />
+
 <img width="400" alt="5276441952947741051" src="https://github.com/user-attachments/assets/5f500ce5-d0cc-4731-a22b-c5319d0b5815" />
 <img width="400" alt="5276441952947741053" src="https://github.com/user-attachments/assets/4b67e137-23fd-4e6a-8979-cad663d5328c" />
 <img width="400" alt="5276441952947741054" src="https://github.com/user-attachments/assets/168c64a1-5252-4ccf-8c14-618e8f9af29b" />
-<img width="400" alt="5276441952947741050" src="https://github.com/user-attachments/assets/4756b5f1-acc8-49aa-892c-82c90de6876f" />
+<img width="400" alt="5276441952947741052" src="https://github.com/user-attachments/assets/e8950dc5-b6ac-4856-9eda-efa9b35dcd9d" />
 <img width="400" alt="5276441952947741049" src="https://github.com/user-attachments/assets/0bdef20c-6de8-43cb-8ce9-ed657a35b876" />
 
 
